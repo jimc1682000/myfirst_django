@@ -46,3 +46,7 @@ https://medium.com/@zoejoyuliao/%E9%80%8F%E9%81%8E-github-webhook-%E8%A7%B8%E7%9
 Note
 -----------
 !!!Remeber to remove SECRET_KEY from settings.py!!!
+
+Django Docs
+-----------
+https://docs.djangoproject.com/en/3.1/
